@@ -1,12 +1,8 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+The 1st coursework in Java assigned to me was to create a Teacher Hiring System. I had to create a Class constituting Teacher along with two other sub classes representing Lecturer and Tutor. The Teacher class consist of four different attributes: subject, teacher name, interviewer name and classes per day. These are the methods that helps to return the values of attributes of the Teacher class. Likewise, Teacher consist of two subclasses: Lecturer Class and Tutor Class and they consist of their own attributes. This program asks us to provide different details about the lecturer or tutor and process them and run the program accordingly. Different kinds of data types are used in this program like String, Integer, Double, etc. Getters and Setters are also used.
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Teacher Hiring System
+PURPOSE OF PROJECT: 1st Coursework for Programming module 
+VERSION or DATE: 10th May,2019
+AUTHORS: Prajwol Tiwari
